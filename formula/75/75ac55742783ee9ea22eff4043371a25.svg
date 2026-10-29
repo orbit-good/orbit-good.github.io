@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!---0.9-->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='3.9000000000000004pt' height='8.1pt' viewBox='23.9 3.9 3.9000000000000004 8.1'>
+<defs>
+<path id='g2-73' d='M1.2-1.2C1.2-.4 1.1-.2 .2-.2V0H3.4V-.2C2.5-.2 2.4-.4 2.4-1.2V-6C2.4-6.8 2.5-6.9 3.4-7V-7.2H.2V-7C1.1-6.9 1.2-6.8 1.2-6V-1.2Z'/>
+<path id='g4-45' d='M.1-2.7V-2.1H3V-2.7H.1Z'/>
+</defs>
+<g id='page1'>
+
+<use x='24.2' y='11' xlink:href='#g2-73'/>
+</g>
+</svg>

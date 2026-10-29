@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!---4.4-->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='34.3pt' height='26.7pt' viewBox='23.9 5.7 34.3 26.7'>
+<defs>
+<path id='g1-34' d='M10.1-5.8C10.1-5.8 10.2-5.9 10.2-6C10.2-6.1 10.1-6.2 10-6.2C9.9-6.2 9.9-6.2 9.9-6.1L-.1-.2C-.2-.1-.2-.1-.2 0C-.2 .1-.1 .2 0 .2C0 .2 .1 .2 .1 .2L10.1-5.8Z'/>
+<path id='g1-98' d='M.1-6.1C.1-6.2 0-6.2 0-6.2C-.1-6.2-.2-6.1-.2-6C-.2-5.9-.2-5.8-.1-5.8L9.9 .2C9.9 .2 9.9 .2 10 .2C10.1 .2 10.2 .1 10.2 0C10.2-.1 10.1-.1 10.1-.2L.1-6.1Z'/>
+<path id='g0-45' d='M.1-2.7V-2.1H3V-2.7H.1Z'/>
+</defs>
+<g id='page1'>
+
+<use x='41.2' y='25.6' xlink:href='#g1-98'/>
+<use x='48.3' y='29.8' xlink:href='#g1-98'/>
+<use x='31.2' y='25.6' xlink:href='#g1-34'/>
+<use x='24.2' y='29.8' xlink:href='#g1-34'/>
+<use x='30.6' y='29.8' xlink:href='#g1-34'/>
+<use x='28.1' y='31.3' xlink:href='#g1-34'/>
+<rect x='41' y='5.7' height='13.9' width='.4'/>
+</g>
+</svg>

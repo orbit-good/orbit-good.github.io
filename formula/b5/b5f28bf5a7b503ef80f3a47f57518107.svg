@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!---0.9-->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='12.5pt' height='9.6pt' viewBox='23.9 2.4 12.5 9.6'>
+<defs>
+<path id='g1-0' d='M5.2-1.8C5.4-1.8 5.5-1.8 5.5-2S5.4-2.1 5.2-2.1H.9C.8-2.1 .7-2.1 .7-2S.8-1.8 .9-1.8H5.2Z'/>
+<use id='g7-70' xlink:href='#g3-70' transform='scale(1.4)'/>
+<path id='g3-70' d='M3.8-1.8V-3.7H3.6C3.5-3 3.4-2.9 2.7-2.9H1.6V-4.7C1.6-4.9 1.6-5 1.9-5H2.9C3.8-5 4-4.8 4.1-4.1H4.3L4.3-5.3H.1V-5.1C.7-5.1 .8-4.9 .8-4.4V-1C.8-.3 .7-.2 .1-.2V0H2.3V-.2C1.7-.2 1.6-.3 1.6-.9V-2.6H2.7C3.4-2.6 3.5-2.5 3.6-1.8H3.8Z'/>
+<path id='g9-45' d='M.1-2.7V-2.1H3V-2.7H.1Z'/>
+</defs>
+<g id='page1'>
+
+<use x='24.2' y='11' xlink:href='#g7-70'/>
+<use x='30.2' y='7' xlink:href='#g1-0'/>
+</g>
+</svg>
